@@ -33,3 +33,9 @@ Put it in an ordinary folder (not Program Files) and run it; its data is kept in
 ## Updates
 
 From 2.4.3 on, QuickCopy looks at this page once a day. When a new version is out it offers to update: it downloads the file, checks it against the SHA-256 in `release.json`, and opens again with the same name in the same place. Your data is not touched. You can also look yourself: Settings → Check for updates.
+
+## الخصوصية · Privacy
+
+- [الصفحة الرئيسية · Home](https://1fouad-it.github.io/QuickCopy-Releases/)
+- [سياسة الخصوصية · Privacy Policy](https://1fouad-it.github.io/QuickCopy-Releases/privacy.html)
+- [شروط الاستخدام · Terms of Use](https://1fouad-it.github.io/QuickCopy-Releases/terms.html)
